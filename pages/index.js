@@ -23,7 +23,7 @@ const kosmetikProdukt = [
     shade: "Crimson Red",
     benefits: ["moisturizing", "high pigment", "smudge-proof"],
     price: "32€",
-    size: "15g",
+    size: "16g",
   },
   {
     name: "Ultra Defined Mascara",
